@@ -84,7 +84,7 @@ aws s3 cp /tmp/sales.csv s3://s3-hat-dev-ew2-landing/in/sales.csv</note>
     <enclosure>"</enclosure>
     <enclosure_breaks>N</enclosure_breaks>
     <escapechar/>
-    <header>Y</header>
+    <header>N</header>
     <nr_headerlines>1</nr_headerlines>
     <footer>N</footer>
     <nr_footerlines>1</nr_footerlines>
