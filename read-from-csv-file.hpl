@@ -11,7 +11,7 @@
     <parameters>
       <parameter>
         <name>PARAM_CSV_FILE_PATH</name>
-        <default_value/>
+        <default_value>${VAR_CSV_FILE_PATH}</default_value>
         <description>Path to CSV input file</description>
       </parameter>
     </parameters>
