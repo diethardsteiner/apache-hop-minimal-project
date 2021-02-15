@@ -85,7 +85,7 @@
         <parameter>
           <name>PARAM_CSV_FILE_PATH</name>
           <stream_name/>
-          <value>s3:///$</value>
+          <value>s3:///${VAR_S3_BUCKET}/${VAR_S3_KEY}</value>
         </parameter>
       </parameters>
       <parallel>N</parallel>
